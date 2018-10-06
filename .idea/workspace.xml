@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="7243101b-b526-451f-9a56-3ca316e1f7e1" name="Default" comment="update index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7243101b-b526-451f-9a56-3ca316e1f7e1" name="Default" comment="重构网站" />
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +22,12 @@
     <session id="-972763949">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< Updated upstream
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
+=======
+          <entry key="project.closed" value="2" />
+>>>>>>> Stashed changes
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -29,16 +37,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="css" value="1210" />
           <entry key="html" value="1314" />
           <entry key="txt" value="59" />
+=======
+          <entry key="css" value="124" />
+          <entry key="html" value="148" />
+          <entry key="txt" value="46" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="CSS" value="1210" />
           <entry key="HTML" value="1314" />
           <entry key="PLAIN_TEXT" value="59" />
+=======
+          <entry key="CSS" value="124" />
+          <entry key="HTML" value="148" />
+          <entry key="PLAIN_TEXT" value="46" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -206,10 +226,14 @@
       <workItem from="1529117799264" duration="463000" />
       <workItem from="1532851230004" duration="367000" />
       <workItem from="1537963147788" duration="259000" />
+<<<<<<< Updated upstream
       <workItem from="1537963747336" duration="3200000" />
       <workItem from="1538575339339" duration="823000" />
       <workItem from="1538614237502" duration="12319000" />
       <workItem from="1538629282086" duration="935000" />
+=======
+      <workItem from="1537963747336" duration="3325000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="add message">
       <created>1537963916487</created>
@@ -232,17 +256,27 @@
       <option name="project" value="LOCAL" />
       <updated>1537964773050</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00004" summary="update index.html">
       <created>1538629006183</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1538629006183</updated>
+=======
+    <task id="LOCAL-00004" summary="重构网站">
+      <created>1537967834556</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537967834556</updated>
+>>>>>>> Stashed changes
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="24006000" />
   </component>
   <component name="ToolWindowManager">
@@ -250,6 +284,14 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.14977646" />
+=======
+    <option name="totallyTimeSpent" value="10054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15040953" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -260,7 +302,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.616179" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3289689" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32874355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -296,8 +342,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add message" />
     <MESSAGE value="add bootstrap and jquery js" />
+<<<<<<< Updated upstream
     <MESSAGE value="update index.html" />
     <option name="LAST_COMMIT_MESSAGE" value="update index.html" />
+=======
+    <MESSAGE value="重构网站" />
+    <option name="LAST_COMMIT_MESSAGE" value="重构网站" />
+>>>>>>> Stashed changes
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/main.js" />
