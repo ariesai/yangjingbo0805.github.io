@@ -4,9 +4,26 @@
 .font-color-blackgrey{color:#1d2124}
 .bg-darkgrey{background:darkgrey}
 .bg-lightblue{background:lightblue}
+.bg-lightorange{background:orange}
+.bg-greenyellow{background:greenyellow}
+.font-size-18{
+  font-size: 18px;
+}
+.font-size-20{
+  font-size: 20px;
+}
+.font-size-24{
+  font-size: 24px;
+}
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
+.mt-10{
+  margin-top:10px;
+}
+.mg-20{
+  margin:20px;
+}
 
 body {
   padding-top: 3rem;
